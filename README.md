@@ -1,3 +1,2 @@
 # badagess2
-kartik gentle
-
+kartik
